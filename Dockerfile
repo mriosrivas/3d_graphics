@@ -43,7 +43,7 @@ RUN pip install vtk && \
     pip install scikit-learn && \
     pip install nibabel && \
     pip install https://github.com/nipy/PySurfer/archive/master.zip && \
-    pip install mne \
+    pip install mne &&\
     pip install numpy-stl
 
 # Install Jupyter notebook extensions
