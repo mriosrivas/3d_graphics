@@ -1,8 +1,6 @@
 # 3d_graphics
 
-```
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mriosrivas/3d_graphics/master)
-```
 
 This repository contains some Jupyter Notebooks for using and testing the Mayavi library for my Linear Algebra course.
 
